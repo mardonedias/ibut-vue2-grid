@@ -43,6 +43,7 @@ new Vue({
 Using the component:
 
 > In template
+
 ```
 <template>
 
